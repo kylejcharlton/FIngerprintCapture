@@ -1,5 +1,5 @@
 
-package FingerprintCapture;
+package scanner;
 
 import com.digitalpersona.onetouch.DPFPGlobal;
 import com.digitalpersona.onetouch.DPFPSample;

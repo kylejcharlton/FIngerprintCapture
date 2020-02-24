@@ -1,4 +1,4 @@
-package FingerprintCapture;
+package scanner;
 
 import javax.swing.*;
 import java.awt.*;
