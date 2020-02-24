@@ -1,7 +1,7 @@
 # FingerprintCapture
 A simple fingerprint capture utitilty based off of the DigitalPersona SDK sample programs included with the SDK.
 
-This program is designed to be simple and allow anyone to scan a fingerprint to a PNG using a DigitalPersona U.are.U 4000B or U.are.U 4500 fingerprint.
+This program is designed to be simple and allow anyone to scan a fingerprint to a PNG using a DigitalPersona U.are.U 4000B or U.are.U 4500 fingerprint scanner.
 
 # Disclamer
 I am in no way responsible for the use of this program. Please follow best practices in keeping private information secure. This software is provided *free of charge* with no warranty provided whatsoever.
