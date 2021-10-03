@@ -12,7 +12,7 @@ I am in no way responsible for the use of this program. Please follow best pract
 - USB port on the computer where the fingerprint reader is to be connected
 - DigitalPersona U.are.U 4000B or U.are.U 4500 fingerprint reader
 
-# Installation
+# Usage
 Download the latest release from [here](https://github.com/kylejcharlton/FIngerprintCapture/releases) and run FingerprintCapture.exe
 
 # Build Requirements
